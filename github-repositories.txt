@@ -1,0 +1,8 @@
+GitHub Repositories
+===================
+
+Add your repository links here:
+
+- Repository Name: Responsive-Landing-Page
+- GitHub URL: https://github.com/your-username/responsive-landing-page
+- Notes: Replace with your actual repository details
